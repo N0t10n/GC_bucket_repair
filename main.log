@@ -1,0 +1,100 @@
+[2024-05-06 12:29:36] INFO - File: temp/rq_sasdrtb_20240429_15.json
+[2024-05-06 12:29:37] ERROR - An error occurred at rqId: 3671440280639381363: invalid syntax. Perhaps you forgot a comma? (<string>, line 1)
+[2024-05-06 12:33:20] INFO - File: temp/rq_unrlv_20240429_15.json
+[2024-05-06 12:33:21] ERROR - An error occurred at rqId: 4161440283217592240: invalid syntax. Perhaps you forgot a comma? (<string>, line 1)
+[2024-05-06 12:36:04] INFO - File: temp/rq_cte_20240429_06.json
+[2024-05-06 12:36:06] ERROR - An error occurred at rqId: 7691437113823386277: invalid syntax. Perhaps you forgot a comma? (<string>, line 1)
+[2024-05-06 12:38:03] INFO - File: temp/rq_unrld_20240429_08.json
+[2024-05-06 12:38:05] ERROR - An error occurred at rqId: 3601438011532411767: invalid syntax. Perhaps you forgot a comma? (<string>, line 1)
+[2024-05-06 12:39:33] INFO - File: temp/rq_otgd_20240429_07.json
+[2024-05-06 12:39:34] ERROR - An error occurred at rqId: 1511437416430743017: invalid syntax. Perhaps you forgot a comma? (<string>, line 1)
+[2024-05-06 12:41:06] INFO - File: temp/rq_otgd_20240429_09.json
+[2024-05-06 12:41:07] ERROR - An error occurred at rqId: 9161438230210111362: invalid syntax. Perhaps you forgot a comma? (<string>, line 1)
+[2024-05-06 12:42:31] INFO - File: temp/rq_rbx_20240429_07.json
+[2024-05-06 12:42:32] ERROR - An error occurred at rqId: 3061437695819183607: invalid syntax. Perhaps you forgot a comma? (<string>, line 1)
+[2024-05-06 12:45:14] INFO - File: temp/rq_purv2_20240429_07.json
+[2024-05-06 12:45:15] ERROR - An error occurred at rqId: 3481437712028094067: invalid syntax. Perhaps you forgot a comma? (<string>, line 1)
+[2024-05-06 12:46:32] INFO - File: temp/rq_cte_20240429_07.json
+[2024-05-06 12:46:34] ERROR - An error occurred at rqId: 8971437707134241550: invalid syntax. Perhaps you forgot a comma? (<string>, line 1)
+[2024-05-06 12:47:57] INFO - File: temp/rq_cb_20240429_08.json
+[2024-05-06 12:47:59] ERROR - An error occurred at rqId: 3851438105918507695: invalid syntax. Perhaps you forgot a comma? (<string>, line 1)
+[2024-05-06 12:49:34] INFO - File: temp/rq_cte_20240429_08.json
+[2024-05-06 12:49:35] ERROR - An error occurred at rqId: 8191438106134532971: invalid syntax. Perhaps you forgot a comma? (<string>, line 1)
+[2024-05-06 12:55:43] INFO - File: temp/rq_cte_20240429_09.json
+[2024-05-06 12:55:44] ERROR - An error occurred at rqId: 8011438245110834080: invalid syntax. Perhaps you forgot a comma? (<string>, line 1)
+[2024-05-06 12:57:06] INFO - File: temp/rq_purv2_20240429_08.json
+[2024-05-06 12:57:07] ERROR - An error occurred at rqId: 4521437880842705140: invalid syntax. Perhaps you forgot a comma? (<string>, line 1)
+[2024-05-06 13:00:12] INFO - File: temp/rq_lpv_20240429_07.json
+[2024-05-06 13:00:13] ERROR - An error occurred at rqId: 5011437723811294976: invalid syntax. Perhaps you forgot a comma? (<string>, line 1)
+[2024-05-06 13:03:02] INFO - File: temp/rq_purv_20240429_15.json
+[2024-05-06 13:03:03] ERROR - An error occurred at rqId: 8561440335053674841: invalid syntax. Perhaps you forgot a comma? (<string>, line 1)
+[2024-05-06 13:04:43] INFO - File: temp/rq_sas_20240429_06.json
+[2024-05-06 13:04:46] ERROR - An error occurred at rqId: 6541437040115314367: invalid syntax. Perhaps you forgot a comma? (<string>, line 1)
+[2024-05-06 13:06:22] INFO - File: temp/rq_lpv_20240429_15.json
+[2024-05-06 13:06:23] ERROR - An error occurred at rqId: 7591440287412204469: invalid syntax. Perhaps you forgot a comma? (<string>, line 1)
+[2024-05-06 13:08:14] INFO - File: temp/rq_apnd2_20240429_06.json
+[2024-05-06 13:08:17] ERROR - An error occurred at rqId: 1211437040041362236: invalid syntax. Perhaps you forgot a comma? (<string>, line 1)
+[2024-05-06 13:14:27] INFO - File: temp/rq_apnvd_20240429_15.json
+[2024-05-06 13:14:29] ERROR - An error occurred at rqId: 4291440282617168440: invalid syntax. Perhaps you forgot a comma? (<string>, line 1)
+[2024-05-06 13:15:59] INFO - File: temp/rq_purv_20240429_09.json
+[2024-05-06 13:16:00] ERROR - An error occurred at rqId: 6881438229539070928: invalid syntax. Perhaps you forgot a comma? (<string>, line 1)
+[2024-05-06 13:19:21] INFO - File: temp/rq_sas_20240429_07.json
+[2024-05-06 14:49:44] INFO - File: temp/rq_sas_20240429_07.json
+[2024-05-06 16:18:55] INFO - File: temp/rq_lpv_20240419_15.json
+[2024-05-06 16:21:17] INFO - File: temp/rq_lpv_20240419_15.json
+[2024-05-06 16:28:58] INFO - File: temp/rq_lpv_20240419_15.json
+[2024-05-06 16:55:30] INFO - File: temp/rq_lpv_20240419_15.json
+[2024-05-06 16:55:31] ERROR - An error occurred at rqId: 2591353980521067509: Extra data: line 1 column 5418 (char 5417)
+[2024-05-07 08:54:49] INFO - File: temp/rq_unrld_20240406_17.json
+[2024-05-07 08:54:52] ERROR - An error occurred at rqId: 6781242508134491111: Extra data: line 1 column 2172 (char 2171)
+[2024-05-07 09:08:12] INFO - File: temp/rq_apnd2_20240502_11.json
+[2024-05-07 09:08:16] ERROR - An error occurred at rqId: 2241464762472763871: Expecting ',' delimiter: line 1 column 21374 (char 21373)
+[2024-05-07 09:37:07] INFO - File: temp/rq_lp_20240428_15.json
+[2024-05-07 09:37:21] ERROR - An error occurred at rqId: 8131431641610286237: Expecting ',' delimiter: line 1 column 18191 (char 18190)
+[2024-05-24 16:38:49] INFO - File: temp/rq_cbv_20240512_20.json
+[2024-05-24 16:38:55] ERROR - An error occurred at rqId: 2121554592152212119: Expecting ',' delimiter: line 1 column 2243 (char 2242)
+[2024-05-24 16:38:56] ERROR - An error occurred at rqId: 6501554417041363124: Invalid \uXXXX escape: line 1 column 4774 (char 4773)
+[2024-05-24 16:38:56] ERROR - An error occurred at rqId: 3321554491815064909: Expecting ',' delimiter: line 1 column 2255 (char 2254)
+[2024-05-24 16:38:58] ERROR - An error occurred at rqId: 7531554720311737466: Expecting ',' delimiter: line 1 column 58562 (char 58561)
+[2024-05-24 16:48:30] INFO - File: temp/rq_cbv_20240512_20.json
+[2024-05-24 16:48:34] ERROR - An error occurred at rqId: 2121554592152212119: Expecting ',' delimiter: line 1 column 2243 (char 2242)
+[2024-05-24 16:48:35] ERROR - An error occurred at rqId: 6501554417041363124: Invalid \uXXXX escape: line 1 column 4774 (char 4773)
+[2024-05-24 16:48:35] ERROR - An error occurred at rqId: 3321554491815064909: Expecting ',' delimiter: line 1 column 2255 (char 2254)
+[2024-05-24 16:48:36] ERROR - An error occurred at rqId: 7531554720311737466: Expecting ',' delimiter: line 1 column 58562 (char 58561)
+[2024-05-24 17:00:50] INFO - File: temp/rq_cbv_20240512_20.json
+[2024-05-24 17:00:55] ERROR - An error occurred at rqId: 2121554592152212119: Expecting ',' delimiter: line 1 column 2243 (char 2242)
+[2024-05-24 17:00:56] ERROR - An error occurred at rqId: 6501554417041363124: Invalid \uXXXX escape: line 1 column 4774 (char 4773)
+[2024-05-24 17:00:56] ERROR - An error occurred at rqId: 3321554491815064909: Expecting ',' delimiter: line 1 column 2255 (char 2254)
+[2024-05-24 17:00:58] ERROR - An error occurred at rqId: 7531554720311737466: Expecting ',' delimiter: line 1 column 58562 (char 58561)
+[2024-05-24 17:09:29] INFO - File: temp/rq_cbv_20240512_20.json
+[2024-05-24 17:09:33] ERROR - An error occurred at rqId: 2121554592152212119: Expecting ',' delimiter: line 1 column 2243 (char 2242)
+[2024-05-24 17:09:34] ERROR - An error occurred at rqId: 6501554417041363124: Invalid \uXXXX escape: line 1 column 4774 (char 4773)
+[2024-05-24 17:09:34] ERROR - An error occurred at rqId: 3321554491815064909: Expecting ',' delimiter: line 1 column 2255 (char 2254)
+[2024-05-24 17:09:35] ERROR - An error occurred at rqId: 7531554720311737466: Expecting ',' delimiter: line 1 column 58562 (char 58561)
+[2024-05-24 17:09:37] ERROR - An error occurred at rqId: unknown: Unterminated string starting at: line 1 column 91 (char 90)
+[2024-05-24 17:20:21] INFO - File: temp/rq_cbv_20240513_00.json
+[2024-05-24 17:20:32] ERROR - An error occurred at rqId: 1121556021820947990: Expecting ',' delimiter: line 1 column 1774 (char 1773)
+[2024-05-24 17:20:32] ERROR - An error occurred at rqId: 6701556109219749391: Invalid \escape: line 1 column 2320 (char 2319)
+[2024-05-24 17:33:15] INFO - File: temp/rq_cbv_20240512_17.json
+[2024-05-24 17:33:24] ERROR - An error occurred at rqId: 6391553554727588126: Expecting ',' delimiter: line 1 column 1171 (char 1170)
+[2024-05-24 17:33:26] ERROR - An error occurred at rqId: 1171553655112428884: Invalid \escape: line 1 column 1855 (char 1854)
+[2024-05-24 17:40:15] INFO - File: temp/rq_cbv_20240524_14.json
+[2024-05-24 17:46:34] INFO - File: temp/rq_cbv_20240512_19.json
+[2024-05-24 17:46:37] ERROR - An error occurred at rqId: 2591554181031333894: Expecting ',' delimiter: line 1 column 1150 (char 1149)
+[2024-05-24 17:46:37] ERROR - An error occurred at rqId: 8991554378811239678: Expecting ',' delimiter: line 1 column 313 (char 312)
+[2024-05-24 17:46:38] ERROR - An error occurred at rqId: 6991554103733907213: Expecting ',' delimiter: line 1 column 2948 (char 2947)
+[2024-05-24 17:46:38] ERROR - An error occurred at rqId: 8311554187217712193: Expecting ',' delimiter: line 1 column 4076 (char 4075)
+[2024-05-24 17:46:39] ERROR - An error occurred at rqId: 7591554327423286105: Expecting ',' delimiter: line 1 column 654 (char 653)
+[2024-05-24 17:46:39] ERROR - An error occurred at rqId: unknown: Unterminated string starting at: line 1 column 91 (char 90)
+[2024-05-27 08:29:26] INFO - File: temp/rq_cbv_20240412_22.json
+[2024-05-27 08:36:15] INFO - File: temp/rq_cbv_20240512_22.json
+[2024-05-27 08:36:26] ERROR - An error occurred at rqId: 2951555449830689298: Expecting ',' delimiter: line 1 column 1970 (char 1969)
+[2024-05-27 08:36:27] ERROR - An error occurred at rqId: 4651555217220887967: Expecting ',' delimiter: line 1 column 3157 (char 3156)
+[2024-05-27 08:41:55] INFO - File: temp/rq_cb_20240513_00.json
+[2024-05-27 08:41:57] ERROR - An error occurred at rqId: 2671555997930873021: Invalid \escape: line 1 column 1627 (char 1626)
+[2024-05-27 08:41:57] ERROR - An error occurred at rqId: 6351556114014956225: Expecting ',' delimiter: line 1 column 1008 (char 1007)
+[2024-06-06 12:22:58] INFO - File: temp/hist_publi2024-06-02.jsonl
+[2024-06-06 12:27:18] INFO - File: temp/hist_publi2024-06-02.jsonl
+[2024-06-06 12:28:34] INFO - File: temp/hist_publi2024-05-15.jsonl
+[2024-06-06 12:31:29] INFO - File: temp/hist_publi2024-05-15.jsonl
+[2024-06-06 12:40:23] INFO - File: temp/hist_publi2024-06-02.jsonl
